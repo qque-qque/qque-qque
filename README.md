@@ -1,3 +1,1 @@
-## Hi there 👋
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=pink&height=300&section=header&text=qque%20qque&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=#FF2EC9&height=3000&section=header&text=qqueqque&fontSize=90" />
