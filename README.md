@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=#FF2EC9&height=3000&section=header&text=대한민국만세&fontSize=90&textColor='red'" />
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=qque%20qque&fontSize=90)
